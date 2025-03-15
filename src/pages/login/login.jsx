@@ -82,7 +82,7 @@ function Login() {
                     </div>
                 </form>
                 <div id="signup-link">
-                Don't have an account?<span onClick={() => navigate('/signup')}> Sign up</span>
+                Don't have an account?<span onClick={() => navigate('/')}> Sign up</span>
                 </div>
             </div>
         </div>
